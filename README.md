@@ -35,12 +35,5 @@ pip install pandas numpy scikit-learn xgboost matplotlib seaborn
    ```
 4. Open the respective notebooks for each dataset analysis.
 
-## Technologies Used
-- **Programming Language**: Python
-- **Libraries**:
-  - Data Processing: Pandas, NumPy
-  - Machine Learning: Scikit-learn, XGBoost
-  - Data Visualization: Matplotlib, Seaborn
-
 Feel free to fork, contribute, and improve the project!
 
