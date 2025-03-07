@@ -35,5 +35,3 @@ pip install pandas numpy scikit-learn xgboost matplotlib seaborn
    ```
 4. Open the respective notebooks for each dataset analysis.
 
-Feel free to fork, contribute, and improve the project!
-
