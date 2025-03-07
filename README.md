@@ -1,4 +1,4 @@
-# Machine-Learning-Projects
+# Machine Learning Analysis
 
 ## Overview
 This project applies machine learning techniques to analyze three datasets:
@@ -23,11 +23,11 @@ pip install pandas numpy scikit-learn xgboost matplotlib seaborn
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/Zuu-Zuu/Machine-Learning-Projects.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd your-repo-name
+   cd Machine-Learning-Projects
    ```
 3. Run Jupyter Notebook:
    ```bash
