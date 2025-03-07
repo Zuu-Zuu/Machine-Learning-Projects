@@ -1,4 +1,2 @@
-# Machine-Learning-Projects
+# Machine-Learning-Project
 Airline Passenger Satisfaction Analysis
-Energy Appliances Analysis
-Twitter Sentiment Analysis
